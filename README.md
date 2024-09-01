@@ -1,17 +1,17 @@
 # csun-gir
 
-**Resources for high-Performance Computing (at no charge!)** \
+**Resources for high-Performance Computing (at no charge!)**
 
 **7th Annual "Gitting into Research" Event**\
 **Office of Undergraduate Researc**\
-**California State University, Northirdge (CSUN)**\
+**California State University, Northirdge (CSUN)**
 
 **Friday, September 20, 2024**\
-**University Student Union (USU) Northridge Center**\
+**University Student Union (USU) Northridge Center**
 
-**Zack Hillbruner, Information Technology, <mailto:zack.hillbruner@csun.edu>**\
+**Zack Hillbruner, Information Technology, <mailto:zack.hillbruner@csun.edu>**
 
-**Wayne Smith, Ph.D., Department of Management, <mailto:ws@csun.edu>**\
+**Wayne Smith, Ph.D., Department of Management, <mailto:ws@csun.edu>**
 
 --------
 
