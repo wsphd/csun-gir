@@ -1,6 +1,6 @@
-# csun-gir
-
 # Resources for high-Performance Computing (at no charge!)
+
+![https://github.com/wsphd/csun-gir](images/csun-gir.png "https://github.com/wsphd/csun-gir")
 
 **7<sup>th</sup> Annual "Getting into Research" Event**\
 **Office of Undergraduate Researcj, California State University, Northirdge (CSUN)**
