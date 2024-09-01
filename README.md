@@ -2,22 +2,22 @@
 
 # Resources for high-Performance Computing (at no charge!)
 
-** 7th Annual "Gitting into Research" Event **\
-** Office of Undergraduate Researc **h
+**7th Annual "Gitting into Research" Event**\
+**Office of Undergraduate Researc**\
 
-** Friday, September 20, 2024 **\
-** University Student Union (USU) **\
-** Northridge Center **\
-** California State University, Northirdge (CSUN) **\
+**Friday, September 20, 2024**\
+**University Student Union (USU)**\
+**Northridge Center**\
+**California State University, Northirdge (CSUN)**\
 
 
-** Zack Hillbruner **\
-** Information Technology **\
-** <mailto:zack.hillbruner@csun.edu> **\
+**Zack Hillbruner**\
+**Information Technology**\
+**<mailto:zack.hillbruner@csun.edu>**\
 
-** Wayne Smith, Ph.D. **\
-** Department of Management **\
-** <mailto:ws@csun.edu> **\
+**Wayne Smith, Ph.D.**\
+**Department of Management**\
+**<mailto:ws@csun.edu>**\
 
 --------
 
