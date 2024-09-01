@@ -1,6 +1,6 @@
 # csun-gir
 
-**Resources for high-Performance Computing (at no charge!)**\
+**Resources for high-Performance Computing (at no charge!)** \
 
 **7th Annual "Gitting into Research" Event**\
 **Office of Undergraduate Researc**\
