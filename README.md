@@ -2,7 +2,7 @@
 
 # Resources for high-Performance Computing (at no charge!)
 
-**7<sup>th</sup> Annual "Gitting into Research" Event**\
+**7<sup>th</sup> Annual "Getting into Research" Event**\
 **Office of Undergraduate Researcj, California State University, Northirdge (CSUN)**
 
 **Friday, September 20, 2024**\
