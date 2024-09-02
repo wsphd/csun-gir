@@ -14,19 +14,19 @@
 
 # Introduction/Background
 
-* Some ni needs <= contemporary desktop/laptop and software\
-  * But double-check new methodologies and growth (and movement) of data\
+* Some ni needs <= contemporary desktop/laptop and software
+  * But double-check new methodologies and growth (and movement) of data
 
-Some nj needs > contempoary desktop/laptop and software
-Essentially, "compute-intensive, data-intensive, network-intensive'
-use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
+* Some nj needs > contempoary desktop/laptop and software
+  * Essentially, "compute-intensive, data-intensive, network-intensive'
+  * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
-Public Cloud (AWS, GCP, MS-Azure, oCI, Digital Ocean, etc.)
-"free-tier"
-pubchase credits w/ a credit card
+* Public Cloud (AWS, GCP, MS-Azure, oCI, Digital Ocean, etc.)
+  * Use "free-tier"
+  * Pubchase credits w/ a credit card
 
-Or?
-NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
+* Or?
+  * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
 
 # Jetstream2
 
