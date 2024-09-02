@@ -14,8 +14,8 @@
 
 # Introduction/Background
 
-Some ni needs <= contemporary desktop/laptop and software\
-But double-check new methodologies and growth (and movement) of data\
+* Some ni needs <= contemporary desktop/laptop and software\
+  * But double-check new methodologies and growth (and movement) of data\
 
 Some nj needs > contempoary desktop/laptop and software
 Essentially, "compute-intensive, data-intensive, network-intensive'
