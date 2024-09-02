@@ -14,105 +14,53 @@
 
 # Introduction/Background
 
+Some ni needs <= contemporary desktop/laptop and software\
+But double-check new methodologies and growth (and movement) of data\
+
+Some nj needs > contempoary desktop/laptop and software
+Essentially, "compute-intensive, data-intensive, network-intensive'
+use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
+
+Public Cloud (AWS, GCP, MS-Azure, oCI, Digital Ocean, etc.)
+"free-tier"
+pubchase credits w/ a credit card
+
+Or?
+NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
+
 # Jetstream2
+
+Managed by Indiana University
+
+10's of GPUs, 100's of GiB of RAM, 10's of PB of disk, fast networks
+Best for new learners, data science projects (R, Python, Julia, etc.), large simulations, gateway to other systems, including several supercomputers around the country
+
+Need an "ACCESS ID"
+Like an ORCID ID but for Research Computing
+Have CV or Resume for upload (don't worry, your request will be approved)
+
+Be willing to learn:
+How to ask (nicely and well, for more (incrementally) resources, and read a simple dashboard
+the Command line and Linux
+Webshell
+SSH for logging int (and some learning curve for generating SSH keys and passphrases)
+SCP for file transfer (after the SSH process is done)
+
+Start here:
+https://jetstream-cloud.org/get-started/index.html
 
 # NRP/Nautilus
 
-<div align="center">
-    <table >
-     <tr>
-        <td><b>Latest Tweets</b></td>
-        <td><b>daily.dev</b></td>
-     </tr>
-     <tr>
-       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
-        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
-     </tr>
-    </table>
-    </div>
+Managed by University of California, San Diego
 
+100's of GPUs/TPUs/DPUs, 100's of GiB of RAM, 10's of PB of disk, very fast networks
+Best for leading-edge science and engineering, especially w/ funded labs and staff
 
---------
+Be willing to learn:
+Must be comfortable with the Command Line, Open Source, and Linux
+Kubernetes (open source client-server), you use the "kubectl" binary
+You control just about everyting with ASCII ".yaml" files
 
-# fcculs
-
-**Summary**: (enough to start)
-
-This R script contains three main parts:
-
-1. Download the relevant FCC ULS Database files,
-2. Combine them using various database techniques, especially "joins", and
-2. Generate a set of "flat files" that a 'HAM/Scanner' user might find useful.
-
-There isn't enough room on GitHub to host the resulting files (datasets), so instead they are posted at:\
-https://www.qsl.net/n6lhv/scma/fcculs/
-
-There is a file for each SoCal county in two formats: .csv and .xlsx.
-  All .csv files (except for LOS ANGELES county) are small enough to be loaded into either the (non-commercial) LibreOffice Calc spreadsheet or the (commercial) MS-Excel spreadsheet.
-  Those two spreadsheets have a limit of 1,048,576 rows, and LOS ANGELES county simply won't fit.  The row limit in Google Sheets is even more constrained.
-  Therefore, most files will need to loaded either into a database, such as Sqlite or DuckDB, or loaded from a programming language such as R, Python, or Julia.
-  Upon filtering, a smaller .csv or even .xlsx file can be written as needed by a user.
-
-**Details**: (for the curious)
-
-I've made specific (opinionated) decisions about the data.
-  This was partly done to make the overall process feasible, but also so that a single `.csv` file would load (directly, or indirectly via a database) into a spreadsheet completely.
-  It should be relatively easy to modify the code to alter these assumptions.
-
-**Data**:
-
-1. ***Inclusion***
-    * I've included both the entire state of California and the entire United States.
-    * As to counties, I've included the ten (10) southernmost counties in SoCal beginning with Kern and San Luis Obispo counties in the north.
-    * I've included only the 'Active' licenses.  This is just under 70% of the entire ULS database.
-    * Either the 'location_county' column or 'control_county' column has to be populated.  If both are blank, the record isn't included in the state-level or county-level files.
-    * I've included the 'Emissions' column due to the growing importance (not to mention variety) of digital systems.
-    * (Note: The 'Emissions' column is excluded in the US file but its inclusion is on the near-term development roadmap.
-2. ***Exclusion***
-    * I've excluded the cellular bands.
-    * I've excluded all frequencies above 1.3GHz.
-3. ***Transformation***
-    * I've converted lower (or proper) case to upper case for the State and County fields.  Ditto for the entity_name.
-    This eliminates inadvertent mismatches due to case sensitivity.
-4. ***Sizes***
-    * As used here, the resulting SQLite database size--all tables--is about 29GB.
-    The 'US' .csv file (all states) is ~15GB, and the 'CA' .csv file is ~23GB (due to the 'Emissions' column).  Therefore, these files are posted in 'zipped' format and 'parquet' format.
-    Using ZIP, the .csv files will compress about 96%.
-    Parquet files are compressed automatically as part of the file format.
-    I've left the county-level files in non-zipped format; on the down side, this lengthens the download time, but on the up side, facilitates easier and more direct use by many users (albeit, zipped files need to be unzipped).
-
-**Code**:
-
-I've tried to use Base R functionality in most places.
-  * The few libraries that are used are listed at the top of the R script. They need to installed into R from CRAN first.  This is easy to do and documented in the R script at the top.
-  * Although unconventional in the general R community, I prefix my variables with the object type of the variable (e.g., "s." for single values and "df." for dataframes to aid in readability.
-  * After downloading the R program from https://www.r-project.org/, you can use the `source` function to run the R script (e.g., `source( "uls-36.r" )`.
-  * The code begins with the `main()` function at the bottom of the R script.
-  * The code is very liberally commented.  This should help new users generally, and moreover, advanced users with various integration, customization, and extensions specifically.
-
-**Timing**:
-
-  * ***Network:*** It takes about 20 minutes to download all the necessary FCC ULS files.
-    This rate appears to be limited on the FCC side either at the network-level or server-level.
-  * ***DBMS:***  Locally, with respect to database management, the database joins generally take the most amount of time, even using indexes.
-    More RAM (e.g., more than 16 MB) and faster hard drives (e.g., NVMe solid-state devices) help.
-    I've successfully run the script on a laptop with 16GB or RAM, but frankly, more is recommended.
-    And since a sophisticated database query JOIN will inevitably swap to disk, faster, solid-state drives are preferred to slower, hard-disk drives.
-    I've used SQLite internally but I've kept the joins in SQL (rather than, say, `dplyr` or `data.table`) so that it's relatively easy to to switch DBMS back-ends.
-    Like most analytical work, a columnar-oriented database such as DuckDB might be a better long-run choice than Sqlite..
-
-**Tips**:
-
-  * ***Searching:*** There are many spelling variants and misspellings, and frankly, overt errors and ommissions.  It would be a herculean effort to try to correct those.
-    Although somewhat slower, I would encourage users to use wildcard searches or similiar search strategies, at least initially, for cities, addresses, and entity names.
-
-I welcome your feedback.
-
-
-Enjoy,
-
-Wayne Smith, Ph.D.\
-N6LHV\
-[Southern California Monitoring Association (SCMA)](https://socalscanner.com/)\
-<mailto:n6lhv@arrl.net>
+Start here:
+Send Wayne an email - <mailto:ws@csun.edu>
 
