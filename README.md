@@ -30,37 +30,37 @@
 
 # Jetstream2
 
-Managed by Indiana University
+* Managed by Indiana University
 
-10's of GPUs, 100's of GiB of RAM, 10's of PB of disk, fast networks
-Best for new learners, data science projects (R, Python, Julia, etc.), large simulations, gateway to other systems, including several supercomputers around the country
+* 10's of GPUs, 100's of GiB of RAM, 10's of PB of disk, fast networks
+  * Best for new learners, data science projects (R, Python, Julia, etc.), large simulations, gateway to other systems, including several supercomputers around the country
 
-Need an "ACCESS ID"
-Like an ORCID ID but for Research Computing
-Have CV or Resume for upload (don't worry, your request will be approved)
+* Need an "ACCESS ID"
+  * Like an ORCID ID but for Research Computing
+  * Have CV or Resume for upload (don't worry, your request will be approved)
 
-Be willing to learn:
-How to ask (nicely and well, for more (incrementally) resources, and read a simple dashboard
-the Command line and Linux
-Webshell
-SSH for logging int (and some learning curve for generating SSH keys and passphrases)
-SCP for file transfer (after the SSH process is done)
+* Be willing to learn:
+  * How to ask (nicely and well, for more (incrementally) resources, and read a simple dashboard
+  * the Command line and Linux
+  * Webshell
+  * SSH for logging int (and some learning curve for generating SSH keys and passphrases)
+  * SCP for file transfer (after the SSH process is done)
 
-Start here:
-https://jetstream-cloud.org/get-started/index.html
+* Start here:
+  * <https://jetstream-cloud.org/get-started/index.html>
 
 # NRP/Nautilus
 
-Managed by University of California, San Diego
+* Managed by University of California, San Diego
 
-100's of GPUs/TPUs/DPUs, 100's of GiB of RAM, 10's of PB of disk, very fast networks
-Best for leading-edge science and engineering, especially w/ funded labs and staff
+* 100's of GPUs/TPUs/DPUs, 100's of GiB of RAM, 10's of PB of disk, very fast networks
+  * Best for leading-edge science and engineering, especially w/ funded labs and staff
 
-Be willing to learn:
-Must be comfortable with the Command Line, Open Source, and Linux
-Kubernetes (open source client-server), you use the "kubectl" binary
-You control just about everyting with ASCII ".yaml" files
+* Be willing to learn:
+  * Must be comfortable with the Command Line, Open Source, and Linux
+  * Kubernetes (open source client-server), you use the "kubectl" binary
+  * You control just about everyting with ASCII ".yaml" files
 
-Start here:
-Send Wayne an email - <mailto:ws@csun.edu>
+* Start here:
+  * Send Wayne an email - <mailto:ws@csun.edu>
 
