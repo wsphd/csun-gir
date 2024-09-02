@@ -3,7 +3,7 @@
 ![https://github.com/wsphd/csun-gir](images/csun-gir.svg "https://github.com/wsphd/csun-gir")
 
 **7<sup>th</sup> Annual "Getting into Research" Event**\
-**Office of Undergraduate Researchj, California State University, Northirdge (CSUN)**
+**Office of Undergraduate Research, California State University, Northirdge (CSUN)**
 
 **Friday, September 20, 2024**\
 **University Student Union (USU), Northridge Center**
