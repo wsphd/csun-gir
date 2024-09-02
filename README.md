@@ -14,10 +14,10 @@
 
 # Introduction/Background
 
-* Some ni needs <= contemporary desktop/laptop and software
+* Some n<sub>i</sub> needs <= contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and movement) of data
 
-* Some nj needs > contempoary desktop/laptop and software
+* Some n<sub>j</sub> needs > contempoary desktop/laptop and software
   * Essentially, "compute-intensive, data-intensive, network-intensive'
   * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
