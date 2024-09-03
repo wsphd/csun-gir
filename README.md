@@ -12,7 +12,7 @@
 
 **Zack Hillbruner, _Information Technology_, <zack.hillbruner@csun.edu>**
 
-**Wayne Smith, Ph.D., _Department of Management_, <mailto:ws@csun.edu>**
+**Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>**
 
 ## Introduction/Background
 
