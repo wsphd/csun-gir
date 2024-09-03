@@ -16,7 +16,7 @@
 
 ## Introduction/Background
 
-* Some $\frac{n/N}$ n<sub>i</sub> needs are $\le$ contemporary desktop/laptop and software
+* Some $\frac{n}/{N}$ n<sub>i</sub> needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and movement) of data
 
 * Some n<sub>j</sub> needs are $\gt$ contempoary desktop/laptop and software
