@@ -32,7 +32,7 @@
 
 * Managed by Indiana University
 
-* 10's of GPUs, 100's of GiB of RAM, 10's of PB of disk, fast networks
+* 10's of [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit), 100's of GiB of RAM, 10's of PB of disk, fast networks
   * Best for new learners, data science projects (R, Python, Julia, etc.), large simulations, gateway to other systems, including several supercomputers around the country
 
 * Need an "ACCESS ID"
