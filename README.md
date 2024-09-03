@@ -1,7 +1,8 @@
 # Resources for high-Performance Computing (at no charge!)
 
+<https://github.com/wsphd/csun-gir/>
 ![https://github.com/wsphd/csun-gir](images/csun-gir.svg "https://github.com/wsphd/csun-gir")
-<https://jetstream-cloud.org/get-started/index.html>
+
 **7<sup>th</sup> Annual "Getting into Research" Event**\
 **Office of Undergraduate Research, California State University, Northirdge (CSUN)**
 
