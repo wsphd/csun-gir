@@ -1,7 +1,7 @@
 # Resources for high-Performance Computing (at no charge!)
 
 
-![https://github.com/wsphd/csun-gir](images/csun-gir.svg "https://github.com/wsphd/csun-gir")
+![https://github.com/wsphd/csun-gir](images/csun-gir.svg "https://github.com/wsphd/csun-gir")\
 
 <https://github.com/wsphd/csun-gir/>
 
