@@ -14,7 +14,7 @@
 
 **Wayne Smith, Ph.D., _Department of Management_, <mailto:ws@csun.edu>**
 
-# Introduction/Background
+## Introduction/Background
 
 * Some n<sub>i</sub> needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and movement) of data
@@ -30,7 +30,7 @@
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
 
-# Jetstream2
+## Jetstream2
 
 * Managed by Indiana University
 
@@ -51,7 +51,7 @@
 * Start here:
   * <https://jetstream-cloud.org/get-started/index.html>
 
-# NRP/Nautilus
+## NRP/Nautilus
 
 * Managed by University of California, San Diego
 
