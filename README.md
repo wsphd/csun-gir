@@ -32,7 +32,7 @@
 
 * Managed by Indiana University
 
-* 10's of [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit), 100's of GiB of RAM, 10's of PB of disk, fast networks
+* 100's of GiB of RAM, 10's of PB of disk, 10's of [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit), fast networks
   * Best for new learners, data science projects (R, Python, Julia, etc.), large simulations, gateway to other systems, including several supercomputers around the country
 
 * Need an "ACCESS ID"
@@ -53,7 +53,7 @@
 
 * Managed by University of California, San Diego
 
-* 100's of GPUs/TPUs/DPUs, 100's of GiB of RAM, 10's of PB of disk, very fast networks
+* 100's of GiB of RAM, 10's of PB of disk, 100's of [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit)/[FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)/[TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)/[DPUs](https://en.wikipedia.org/wiki/Data_processing_unit), very fast networks
   * Best for leading-edge science and engineering, especially w/ funded labs and staff
 
 * Be willing to learn:
