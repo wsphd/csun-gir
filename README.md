@@ -23,7 +23,7 @@
   * Essentially, "compute-intensive, data-intensive, network-intensive'
   * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
-* Public Cloud (AWS, GCP, MS-Azure, oCI, Digital Ocean, etc.)
+* Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
   * Use "free-tier"
   * Pubchase credits w/ a credit card
 
