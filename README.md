@@ -64,5 +64,5 @@
   * You control just about everyting with ASCII ".yaml" files
 
 * Start here:
-  * Send Wayne an email - <mailto:ws@csun.edu>
+  * Send Wayne an email - <ws@csun.edu>
 
