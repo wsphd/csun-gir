@@ -19,7 +19,7 @@
 * Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and movement) of data
 
-* Some $\frac{n_j}{N}$ needs are $\gt$ contempoary desktop/laptop and software
+* Some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
   * Essentially, "compute-intensive, data-intensive, network-intensive'
   * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
