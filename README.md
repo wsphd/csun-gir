@@ -10,9 +10,9 @@
 **Friday, September 20, 2024**\
 **University Student Union (USU), Northridge Center**
 
-**Zack Hillbruner, Information Technology, <mailto:zack.hillbruner@csun.edu>**
+**Zack Hillbruner, _Information Technology_, <mailto:zack.hillbruner@csun.edu>**
 
-**Wayne Smith, Ph.D., Department of Management, <mailto:ws@csun.edu>**
+**Wayne Smith, Ph.D., _Department of Management_, <mailto:ws@csun.edu>**
 
 # Introduction/Background
 
