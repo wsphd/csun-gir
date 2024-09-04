@@ -51,7 +51,7 @@
 * Start here:
   * <https://jetstream-cloud.org/get-started/index.html>
 
-## NRP/Nautilus
+## Nautilus (part of the National Research Platform--NRP)
 
 * Managed by University of California, San Diego
 
