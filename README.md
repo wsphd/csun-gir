@@ -20,7 +20,7 @@
   * But double-check new methodologies and growth (and movement) of data
 
 * Some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
-  * Essentially, "compute-intensive, data-intensive, network-intensive'
+  * Essentially, "compute-intensive, data-intensive, network-intensive"
   * Use FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
 * Public Cloud (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
