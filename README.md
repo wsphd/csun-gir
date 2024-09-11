@@ -29,6 +29,7 @@
 
 * Or?
   * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
+  * <https://www.csun.edu/it/technology-resources-research>
 
 ## Jetstream2
 
